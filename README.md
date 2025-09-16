@@ -2,21 +2,14 @@
 <h3 align="center">Studied computer science at Khon Kaen University.</h3>
 
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
-![Simon’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simonlee789&show_icons=true&theme=dark)
+![Simon’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simonlee789&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simonlee789&layout=compact&theme=default)
+
+---
 
 ⚡ by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-## 🛠️ Languages and Tools
-
-... (ส่วน “Languages and Tools” เดิมของคุณ) ...
-
----
-
-## 🔭 Popular Repositories
-
-- ...
 
