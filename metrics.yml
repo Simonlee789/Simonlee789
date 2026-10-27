@@ -22,4 +22,4 @@ jobs:
           plugin_music_mode: playlist
           plugin_music_limit: 6
           plugin_music_provider: apple
-          plugin_music_playlist: hhttps://open.spotify.com/playlist/0TtVS5GoshOkaZB4ilhDhr?si=91ef2672a22245b3
+          plugin_music_playlist: https://music.apple.com/th/playlist/k-pop-%E0%B8%AA-%E0%B8%94%E0%B8%AE-%E0%B8%95-2025/pl.161503b34ff7441a949c81bd19525b35?l=th
