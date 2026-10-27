@@ -3,7 +3,7 @@
 # Hi, I'm Simon 👋
 
 Computer Science student at **Khon Kaen University** 🇹🇭<br/>
-Mobile & web apps · Test automation
+Mobile & web apps · UX/UI Design
 
 <br/>
 
@@ -21,17 +21,6 @@ Mobile & web apps · Test automation
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonlee789&layout=compact&hide_border=true&hide_title=true&langs_count=4&theme=transparent&text_color=888888" alt="top languages" />
 
 </div>
-
-### 🎵 Playlist
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Simonlee789/Simonlee789/main/metrics-music.svg" alt="music playlist" />
-</div>
-
-### 📌 Projects
-
-- 📱 **[mobileweb](https://github.com/Simonlee789/mobileweb)** — Ionic apps in React & Vue, built with Capacitor, tested with Cypress
-- 🤖 **[TestAutomationLab](https://github.com/Simonlee789/TestAutomationLab)** — UI test automation with Robot Framework
 
 <div align="center">
 <br/>
