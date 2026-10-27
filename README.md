@@ -22,6 +22,13 @@ A Monopoly-inspired board game project.
 
 A web-based cafe management and ordering system.
 
+### GitHub Activity
+
+<p align="center">
+  <img src="./metrics.plugin.starlists.languages.svg" width="49%" alt="Starred repository languages" />
+  <img src="./metrics.plugin.topics.icons.svg" width="49%" alt="Starred repository topics" />
+</p>
+
 ### Connect
 
 [GitHub](https://github.com/Simonlee789)
