@@ -1,35 +1,39 @@
-# Simon Lee
+<div align="center">
 
-Computer Science student at Khon Kaen University.
+# Hi, I'm Simon 👋
 
-I enjoy building web and mobile applications with a focus on simplicity, usability, and thoughtful design.
+Computer Science student at **Khon Kaen University** 🇹🇭<br/>
+Mobile & web apps · Test automation
 
-### Tech Stack
+<br/>
 
-`TypeScript` `JavaScript` `Java` `HTML` `CSS`
+<img src="https://skillicons.dev/icons?i=html,css,ts,js,nodejs,react,vue,vite,pnpm,java,figma,androidstudio,py,mysql,lua,robloxstudio,git,github,vscode,idea&perline=10" alt="tech stack" />
 
-`React` `Vue` `Ionic` `Vite` `Node.js`
+<br/>
 
-`Git` `GitHub` `Cypress` `Robot Framework`
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=flat&logo=robotframework&logoColor=white" alt="Robot Framework" />
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white" alt="Ionic" />
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" alt="Capacitor" />
 
-### Selected Work
+<br/><br/>
 
-**[MonopolyDekMorKhor](https://github.com/HeHHeyboi/MonopolyDekMorKhor)**
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Simonlee789&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&theme=transparent&icon_color=7F5AF0&text_color=888888" alt="stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonlee789&layout=compact&hide_border=true&hide_title=true&langs_count=4&theme=transparent&text_color=888888" alt="top languages" />
 
-A Monopoly-inspired board game project.
+</div>
 
-**[Cafe Management](https://github.com/HeHHeyboi/Cafe_Management)**
+### 🎵 Playlist
 
-A web-based cafe management and ordering system.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Simonlee789/Simonlee789/main/metrics-music.svg" alt="music playlist" />
+</div>
 
-### GitHub Activity
+### 📌 Projects
 
-<p align="center">
-  <img src="./metrics.plugin.starlists.languages.svg" width="49%" alt="Starred repository languages" />
-  <img src="./metrics.plugin.topics.icons.svg" width="49%" alt="Starred repository topics" />
-</p>
+- 📱 **[mobileweb](https://github.com/Simonlee789/mobileweb)** — Ionic apps in React & Vue, built with Capacitor, tested with Cypress
+- 🤖 **[TestAutomationLab](https://github.com/Simonlee789/TestAutomationLab)** — UI test automation with Robot Framework
 
-### Connect
-
-[GitHub](https://github.com/Simonlee789)
-
+<div align="center">
+<br/>
+<sub>📍 Khon Kaen, Thailand</sub>
+</div>
