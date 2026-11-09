@@ -2,7 +2,7 @@
 
 # Hi, I'm Simon 👋
 
-Computer Science student at **Khon Kaen University** 🇹🇭<br/>
+Computer Science student at **Khon Kaen University** <br/>
 Mobile & web apps · UX/UI Design
 
 <br/>
